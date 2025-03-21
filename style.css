@@ -33,13 +33,13 @@ body {
   position: absolute;
   text-align: center;
   color: #fff; /* Color del texto */
-  font-size: 20px; /* Tamaño del texto */
+  font-size: 10px; /* Tamaño del texto */
 }
 .text-belows {
   position: absolute;
   text-align: center;
   color: #fff; /* Color del texto */
-  font-size: 20px; /* Tamaño del texto */
+  font-size: 10px; /* Tamaño del texto */
 }
 
 .text-above {
@@ -47,7 +47,7 @@ body {
 }
 
 .text-below {
-  bottom: -80px; /* Ajusta la posición vertical del texto debajo de la flor */
+  bottom: -110px; /* Ajusta la posición vertical del texto debajo de la flor */
 }
 .text-belows {
   bottom: -160px; /* Ajusta la posición vertical del texto debajo de la flor */
